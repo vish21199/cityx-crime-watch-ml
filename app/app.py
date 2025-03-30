@@ -1,6 +1,17 @@
 import streamlit as st
+<<<<<<< HEAD
 import joblib
 from PyPDF2 import PdfReader
+=======
+
+st.set_page_config(page_title="CityX Crime Watch", layout="wide")
+
+try:
+    # All your existing Streamlit code here
+    ...
+except Exception as e:
+    st.error(f"🚨 Something went wrong: {e}")
+>>>>>>> 0ae1c75f35175f11dc5b4b57b79df1eeca54f24c
 
 st.set_page_config(page_title="CityX Crime Watch", layout="wide")
 
