@@ -1,6 +1,6 @@
 # 🚓 CityX Crime Watch: Operation Safe Streets
 
-📢 Final submission for **Rihal CodeStacker 2025 – Machine Learning Challenge**
+📢 Final submission for ** CodeStacker 2025 – Machine Learning Challenge**
 
 ---
 
